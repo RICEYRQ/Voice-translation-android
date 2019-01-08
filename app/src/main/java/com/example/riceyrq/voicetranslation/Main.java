@@ -97,7 +97,7 @@ public class Main extends Activity {
 
     private int fromPos = 1;
     private int toPos = 2;
-    final static String key = "21f0c697b654459a83512409cccb4ee0";
+    final static String key = "";
     private static final String speechTranslateUriTemplate = "wss://dev.microsofttranslator.com/speech/translate?features=texttospeech&from=%1s&to=%2s&api-version=1.0";
 
     private ClipboardManager clipboard;
